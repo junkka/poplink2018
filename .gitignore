@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data-raw/data/
+data-raw/*.rda
+data/*.rda
+.cache/*.rda
+data-raw/passwd.R
+*.Rout

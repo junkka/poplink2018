@@ -1,0 +1,6 @@
+^data-raw$
+^scripts$
+^.cache$
+^.*\.Rproj$
+^\.Rproj\.user$
+^README.md$

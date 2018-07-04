@@ -1,0 +1,10 @@
+Encoding: UTF-8
+Package: poplinkdata
+Title: POPLINK data
+Version: 0.9999
+Authors@R: "Johan Junkka <johan.junkka@gmail.com> [aut, cre]"
+Description: A R data package for POPLINK data
+Depends: R (>= 3.1.3)
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 6.0.1
